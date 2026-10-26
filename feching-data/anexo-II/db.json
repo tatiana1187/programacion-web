@@ -1,0 +1,35 @@
+{
+  "tareas": [
+    {
+      "texto": "Aprender Fetching Data",
+      "hecha": true,
+      "id": "e7DwgkQTIjk"
+    },
+    {
+      "texto": "Aprender Fetching Data",
+      "hecha": false,
+      "id": "cGM6aIl5NqQ"
+    },
+    {
+      "texto": "Aprender Fetching Data",
+      "hecha": false,
+      "id": "ZnKhfi8Jdkk"
+    },
+    {
+      "texto": "nose, me quiero ir",
+      "hecha": true,
+      "id": "VxKza4bk2bI"
+    },
+    {
+      "texto": "Aprender Fetching Data",
+      "hecha": false,
+      "id": "P264MKo-g74"
+    },
+    {
+      "texto": "Aprender Fetching Data",
+      "hecha": false,
+      "id": "FUrYLPhbZ4Y"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
