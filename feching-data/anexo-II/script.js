@@ -38,7 +38,7 @@ async function borrarTarea(id) {
   if (!respuesta.ok) {
     throw new Error(`Error al borrar la tarea: ${respuesta.status}`);
   }
-  consola.log("Tarea eliminada", id);
+  console.log("Tarea eliminada", id);
 }
 //borrarTarea("ggz9W8pR0eg");
 
